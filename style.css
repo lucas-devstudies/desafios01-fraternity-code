@@ -1,0 +1,104 @@
+body{
+    background-color: #fff;
+    text-align: center;
+}
+*{
+    margin: 0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.destaque h1{
+    width: 177px;
+    height: 63px;
+    margin-top: 58px;
+    margin: auto;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+}
+#destaque p{
+    width: 700px;
+    height: 35px;
+    margin: auto;
+    font-size: 18px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+
+}
+.top{
+    
+    background-color: #181818;
+}
+.top p{
+    padding-top: 15px;
+    padding-bottom: 14px;
+    color: #fff;
+}
+.bottom{
+    padding-top: 15px;
+    padding-bottom: 14px;
+    background-color: #181818;
+}
+.bottom p{
+    color: #fff;
+}
+.title{
+    padding-top: 6px;
+    padding-bottom: 7px;
+    width: 160px;
+    height: 47px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+}
+#background{
+    background-image: url("assets/banner.png");
+    background-size: cover;
+    width: 100vw;
+    height:378px; 
+    box-shadow:inset 0 0 0 200px rgba(24, 24, 24, 0.6);
+}
+.translucent{
+    width: 1440px;
+    height: 378px;
+    left: 0px;
+    top: 119px;
+    
+    background: #181818;
+}
+#background h1{
+    position: absolute;
+    text-align: left;
+    color: #fff;
+    width: 400px;   
+    height: 39px;
+    font-style: normal;
+    left: 100px;
+    top: 248px;
+}
+#background p{
+    position: absolute;
+    width: 460px;
+    height: 70px;
+    left: 100px;
+    top: 306px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: left;
+    color: #F9F9F9;
+}
+.produtos{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 100px;
+    margin: auto;
+}
+.produtos img{
+    width: 300px;
+    height: 302px;
+    background: #EBE9EA;
+    margin: 39px 13px 39px 13px;
+}
