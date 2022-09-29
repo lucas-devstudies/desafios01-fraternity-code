@@ -1,9 +1,9 @@
 # desafios01-fraternity-code
-**ntrodução:**
-  Primeiro desafio da Fraternity Code
+**Introdução:**
+Primeiro desafio da Fraternity Code
 Nesse desafio criamos um site de venda de sapatos, usando Html e Css
   
-
+</br>
 
  **Tecnologias:**
  ***
